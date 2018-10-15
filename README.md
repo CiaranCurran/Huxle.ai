@@ -9,13 +9,9 @@ Huxle is a desktop application which uses live webcam footage to classify if you
 
 
 
-*
-*
-*
-*
-*
-*
-*
+
+
+
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
 
 There are multiple versions of this codelab depending on which version 
