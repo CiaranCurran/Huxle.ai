@@ -1,5 +1,21 @@
 # Overview
+Huxle is a desktop application which uses live webcam footage to classify if you are focused on your screen. Huxle does this via transfer learning performed on Google's opensource ImageNet Deep Learning Neural Network classifier and the image processing library OpenCV. 
 
+
+
+
+
+
+
+
+
+*
+*
+*
+*
+*
+*
+*
 This repo contains code for the "TensorFlow for poets 2" series of codelabs.
 
 There are multiple versions of this codelab depending on which version 
